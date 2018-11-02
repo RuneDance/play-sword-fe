@@ -2,12 +2,6 @@
 //获取应用实例
 const app = getApp();
 
-// var pageObject = {
-//   data: {
-//     disabled: true
-//   }
-// }
-
 Page({
   data: {
     disabled: true
